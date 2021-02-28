@@ -23,7 +23,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    Γλώσσες:
+    languages:
       - idiom: Ελληνικά
         level: μητρική γλώσσα
 
@@ -33,7 +33,7 @@ sidebar:
       - idiom: Ιαπωνέζικα
         level: μεριή συνενόηση
 
-    Ενδιαφέροντα:
+    Interests:
       - item: Gaming
         link:
 
